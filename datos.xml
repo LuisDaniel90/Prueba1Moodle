@@ -41,6 +41,8 @@
 		<FECHAS_LECTURA>16-MAR-2020 - 16-ABR-2020</FECHAS_LECTURA>
 		<DESC_PERIODO>ABRIL 2020</DESC_PERIODO>
 		<dias_fac>31</dias_fac>
+    <valorUltimoPago>19500</valorUltimoPago>
+    <fechaUltimoPago>10-MAR-2020</fechaUltimoPago>
 	</FACTURA_ENC>
 	<FACTURA_DET>
 		<DETALLE>
@@ -163,4 +165,9 @@
 			<info_4></info_4>
 		</CON_TER>
 	</TERCEROS>
+  <MEDIDOR>
+    <marcaMed>HIK</marcaMed>
+    <codigoMed>16375074</codigoMed>
+    <factorMed>1</factorMed>
+  </MEDIDOR>
 </FACTURA>
