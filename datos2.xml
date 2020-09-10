@@ -1,0 +1,247 @@
+<FACTURA>
+	<FACTURA_ENC>
+		<Susc_codser>01</Susc_codser>
+		<Susc_codzon>PA</Susc_codzon>
+		<Susc_codsus>24762</Susc_codsus>
+		<Sec_factura>6</Sec_factura>
+		<PERIODOX>01-ENE-20</PERIODOX>
+		<Nom_suscriptor>SUDIANNI MARIEN QUIÑONEZ ROSALES</Nom_suscriptor>
+		<Dir_suscriptor>CRA 34 NRO 15 - 33</Dir_suscriptor>
+		<Cien_codcic>PA1</Cien_codcic>
+		<Ruen_cod_ruta>P106</Ruen_cod_ruta>
+		<Orden>2070</Orden>
+		<Facturas_deuda>2</Facturas_deuda>
+		<Digito_chequeo>7</Digito_chequeo>
+		<Vadi_cod_division>PUERTO ASIS - KENEDY</Vadi_cod_division>
+		<Taen_cod_tarifa>105</Taen_cod_tarifa>
+		<Carga_Instal>.6</Carga_Instal>
+		<Area>URBANA</Area>
+		<Tius_cod_tipo>RESIDENCIAL</Tius_cod_tipo>
+		<Estr_cod_estrato>1</Estr_cod_estrato>
+		<Nive_nivel_tension>1</Nive_nivel_tension>
+		<Estr_cod_estrato>1</Estr_cod_estrato>
+		<Tisu_cod_tipo>CM</Tisu_cod_tipo>
+		<Fecha_toma>17-ENE-20</Fecha_toma>
+		<Fecha_toma_ant>18-DIC-19</Fecha_toma_ant>
+		<Fecha_fac>28-ENE-20</Fecha_fac>
+		<Nro_factura>2034466389</Nro_factura>
+		<Fecha_toma_ant>18-DIC-19</Fecha_toma_ant>
+		<direcc_envio></direcc_envio>
+		<tide_cod_tipo></tide_cod_tipo>
+		<ciudad></ciudad>
+		<tide_cod_tipo></tide_cod_tipo>
+		<Fecha_vencim>23-FEB-20</Fecha_vencim>
+		<Total_fac>80230</Total_fac>
+		<Fecpub>17-DIC-19</Fecpub>
+		<Propiedad>SP</Propiedad>
+		<Cod_nodo>PUR058</Cod_nodo>
+		<tipo_red>AEREA</tipo_red>
+		<desc_propiedad>EMPRESA</desc_propiedad>
+		<cod_suscriptor>PA 24762</cod_suscriptor>
+		<FECHAS_LECTURA>18-DIC-2019 - 17-ENE-2020</FECHAS_LECTURA>
+		<DESC_PERIODO>ENERO 2020</DESC_PERIODO>
+		<dias_fac>30</dias_fac>
+		<valorUltimoPago>69500</valorUltimoPago>
+		<fechaUltimoPago>06-DIC-2019</fechaUltimoPago>
+	</FACTURA_ENC>
+	<FACTURA_DET>
+		<DETALLE>
+			<fdet_codcon>100</fdet_codcon>
+			<fdet_limite_inf>0</fdet_limite_inf>
+			<fdet_limite_sup></fdet_limite_sup>
+			<fdet_vlr_facturado>0</fdet_vlr_facturado>
+			<fdet_vlr_capital></fdet_vlr_capital>
+			<fdet_vlr_interes></fdet_vlr_interes>
+			<fdet_vlr_pagado></fdet_vlr_pagado>
+			<fdet_saldo_anterior>6359.48</fdet_saldo_anterior>
+			<fdet_consumo_fac>0</fdet_consumo_fac>
+			<fdet_vlr_antic_apl></fdet_vlr_antic_apl>
+			<fdet_concepto>ACTIVA SENCILLA MONOMIA</fdet_concepto>
+			<fdet_vlr_neto>6359.48</fdet_vlr_neto>
+		</DETALLE>
+		<DETALLE>
+			<fdet_codcon>200</fdet_codcon>
+			<fdet_limite_inf>0</fdet_limite_inf>
+			<fdet_limite_sup>173</fdet_limite_sup>
+			<fdet_vlr_facturado>0</fdet_vlr_facturado>
+			<fdet_vlr_capital></fdet_vlr_capital>
+			<fdet_vlr_interes></fdet_vlr_interes>
+			<fdet_vlr_pagado></fdet_vlr_pagado>
+			<fdet_saldo_anterior></fdet_saldo_anterior>
+			<fdet_consumo_fac></fdet_consumo_fac>
+			<fdet_vlr_antic_apl></fdet_vlr_antic_apl>
+			<fdet_concepto>SUBSIDIO</fdet_concepto>
+			<fdet_vlr_neto>0</fdet_vlr_neto>
+		</DETALLE>
+		<DETALLE>
+			<fdet_codcon>500</fdet_codcon>
+			<fdet_limite_inf>0</fdet_limite_inf>
+			<fdet_limite_sup></fdet_limite_sup>
+			<fdet_vlr_facturado>31.8</fdet_vlr_facturado>
+			<fdet_vlr_capital></fdet_vlr_capital>
+			<fdet_vlr_interes></fdet_vlr_interes>
+			<fdet_vlr_pagado></fdet_vlr_pagado>
+			<fdet_saldo_anterior></fdet_saldo_anterior>
+			<fdet_consumo_fac></fdet_consumo_fac>
+			<fdet_vlr_antic_apl></fdet_vlr_antic_apl>
+			<fdet_concepto>RECARGO POR MORA</fdet_concepto>
+			<fdet_vlr_neto>31.8</fdet_vlr_neto>
+		</DETALLE>
+		<DETALLE>
+			<fdet_codcon>520</fdet_codcon>
+			<fdet_limite_inf>0</fdet_limite_inf>
+			<fdet_limite_sup>0</fdet_limite_sup>
+			<fdet_vlr_facturado>-1.8</fdet_vlr_facturado>
+			<fdet_vlr_capital></fdet_vlr_capital>
+			<fdet_vlr_interes></fdet_vlr_interes>
+			<fdet_vlr_pagado></fdet_vlr_pagado>
+			<fdet_saldo_anterior>1.12</fdet_saldo_anterior>
+			<fdet_consumo_fac>0</fdet_consumo_fac>
+			<fdet_vlr_antic_apl></fdet_vlr_antic_apl>
+			<fdet_concepto>AJUSTE A LA DECENA</fdet_concepto>
+			<fdet_vlr_neto>-.68</fdet_vlr_neto>
+		</DETALLE>
+	</FACTURA_DET>
+	<CONSUMOS>
+		<CONSUMO>
+			<cons_nom_periodo>Mar</cons_nom_periodo>
+			<Consumo_def>25</Consumo_def>
+		</CONSUMO>
+		<CONSUMO>
+			<cons_nom_periodo>Feb</cons_nom_periodo>
+			<Consumo_def>51</Consumo_def>
+		</CONSUMO>
+		<CONSUMO>
+			<cons_nom_periodo>Ene</cons_nom_periodo>
+			<Consumo_def>55</Consumo_def>
+		</CONSUMO>
+		<CONSUMO>
+			<cons_nom_periodo>Dic</cons_nom_periodo>
+			<Consumo_def>21</Consumo_def>
+		</CONSUMO>
+		<CONSUMO>
+			<cons_nom_periodo>Nov</cons_nom_periodo>
+			<Consumo_def>7</Consumo_def>
+		</CONSUMO>
+		<CONSUMO>
+			<cons_nom_periodo>Oct</cons_nom_periodo>
+			<Consumo_def>0</Consumo_def>
+		</CONSUMO>
+	</CONSUMOS>
+	<CU>
+		<Costo_distr>206.459</Costo_distr>
+		<Costo_adic>.382</Costo_adic>
+		<perdida>43.3077</perdida>
+		<Costo_comer>81.6614</Costo_comer>
+		<Costo_genera>235.5939</Costo_genera>
+		<costo_transm>38.396</costo_transm>
+		<Costo_unit>605.8</Costo_unit>
+		<comp_fijo>0</comp_fijo>
+	</CU>
+  <AVANCE_CREDITO>
+		<AVANCE>
+			<Sec_credito>1</Sec_credito>
+			<Valor_Financiacion>126100</Valor_Financiacion>
+			<cr_cod_plan>FMAT</cr_cod_plan>
+			<cr_tip_amort>1</cr_tip_amort>
+			<cr_desc_tip_amort>MENSUAL</cr_desc_tip_amort>
+			<cr_cuotas>4</cr_cuotas>
+			<Saldo_financiacion>63050</Saldo_financiacion>
+			<cr_cuotas_pag>1</cr_cuotas_pag>
+			<cr_cuotas_x_facturar>2</cr_cuotas_x_facturar>
+		</AVANCE>
+	</AVANCE_CREDITO>
+  <TERCEROS>
+		<CON_TER>
+			<ter_entidad>SM ALCALDIA</ter_entidad>
+			<ter_logo></ter_logo>
+			<ter_codcon>990</ter_codcon>
+			<ter_codcon_sub></ter_codcon_sub>
+			<ter_codcon_contr></ter_codcon_contr>
+			<ter_desc_concepto>SERVICIO DE ASEO</ter_desc_concepto>
+			<info_1></info_1>
+			<info_2>Cra 4 Cll 7 Esq B/La Libertad</info_2>
+			<info_3>4210131-4210132</info_3>
+			<info_4></info_4>
+		</CON_TER>
+	</TERCEROS>
+  <MEDIDOR>
+    <marcaMed>HIK</marcaMed>
+    <codigoMed>16375074</codigoMed>
+    <factorMed>1</factorMed>
+  </MEDIDOR>
+  <LECTURAS>
+    <LECTURA>
+        <TIPO>ACTIVA</TIPO>
+        <LECTURA_ACTUAL>2647</LECTURA_ACTUAL>
+        <LECTURA_ANTERIOR>2541</LECTURA_ANTERIOR>
+        <OBSERVACION></OBSERVACION>
+    </LECTURA>
+    <LECTURA>
+        <TIPO>REACTIVA</TIPO>
+        <LECTURA_ACTUAL>0</LECTURA_ACTUAL>
+        <LECTURA_ANTERIOR>0</LECTURA_ANTERIOR>
+    </LECTURA>
+	</LECTURAS>
+  <LIQUIDACION_CONSUMO>
+    <ACTIVA>106</ACTIVA>
+    <REACTIVA>0</REACTIVA>
+    <COSTO_CONSUMO>64214.8</COSTO_CONSUMO>
+    <TARIFA>288</TARIFA>
+    <SUBSIDIO>-37069.92</SUBSIDIO>
+    <CONTRIBUCION>0</CONTRIBUCION>
+    <SUBTOTAL>28482</SUBTOTAL>
+	</LIQUIDACION_CONSUMO>
+  <CALIDAD_SERVICIO>
+    <TELEFONO>01 8000 942415</TELEFONO>
+    <TRANSFORMADOR>SSS197</TRANSFORMADOR>
+    <CIRCUITO>C10</CIRCUITO>
+    <GRUPO>4</GRUPO>
+    <IPS>0.552</IPS>
+    <ITT>0.007</ITT>
+    <IRGP>0.051</IRGP>
+    <CRO>1436.83</CRO>
+    <CMP>119.333</CMP>
+    <VALOR_COMPENSAR>0</VALOR_COMPENSAR>
+	</CALIDAD_SERVICIO>
+  <ALUMBRADO_PUBLICO>
+    <SUJETO>MUNICIPIO DE PUERTO ASIS</SUJETO>
+    <OPERADOR>EAAAP ESP</OPERADOR>
+    <CONVENIO>CONV COOP No.002 DE 2020</CONVENIO>
+    <DIRPQR>Alcaldia CAM Cra 19 - Cll 10</DIRPQR>
+    <VALOR_PERIODO>2398</VALOR_PERIODO>
+    <SALDO_ANTERIOR>2398</SALDO_ANTERIOR>
+    <VALOR_TOTAL>4796</VALOR_TOTAL>
+	</ALUMBRADO_PUBLICO>
+  <ALCANTARILLADO>
+    <CONCEPTO>ALCANTARILLADO</CONCEPTO>
+    <EMPRESA>EAAAP ESP</EMPRESA>
+    <DIRPQR>Cll 12 #17-3B B/Las Americas</DIRPQR>
+    <VALOR_TARIFA>11780</VALOR_TARIFA>
+    <SUBSIDIO>-2790</SUBSIDIO>
+    <SALDO_ANTERIOR>8990</SALDO_ANTERIOR>
+    <VALOR_TOTAL>17980</VALOR_TOTAL>
+	</ALCANTARILLADO>
+  <ASEO>
+    <CONCEPTO>ASEO*</CONCEPTO>
+    <EMPRESA>EAAAP ESP</EMPRESA>
+    <DIRPQR>Cll 12 #17-3B B/Las Americas</DIRPQR>
+    <VALOR_TARIFA>8104</VALOR_TARIFA>
+    <SUBSIDIO>0</SUBSIDIO>
+    <SALDO_ANTERIOR>8104</SALDO_ANTERIOR>
+    <VALOR_TOTAL>16208</VALOR_TOTAL>
+	</ASEO>
+  <OTROS_CONVENIOS>
+    <CONVENIO>
+        <CONCEPTO>CONVENIO LA ASCENCIÓN</CONCEPTO>
+        <EMPRESA>LA ASCENCION</EMPRESA>
+        <TOTAL>21050</TOTAL>
+    </CONVENIO>
+    <CONVENIO>
+        <CONCEPTO>CREDISEGUROS</CONCEPTO>
+        <EMPRESA>CREDISEGUROS</EMPRESA>
+        <TOTAL>15000</TOTAL>
+    </CONVENIO>
+	</OTROS_CONVENIOS>
+  <CODIGO_BARRAS>(415)7709998005532(8020)1000203446638977(3900)0000080230(96)00200223</CODIGO_BARRAS>
+</FACTURA>
