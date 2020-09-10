@@ -1,48 +1,48 @@
 <FACTURA>
 	<FACTURA_ENC>
 		<Susc_codser>01</Susc_codser>
-		<Susc_codzon>PC</Susc_codzon>
-		<Susc_codsus>27485</Susc_codsus>
-		<Sec_factura>11</Sec_factura>
-		<PERIODOX>01-ABR-20</PERIODOX>
-		<Nom_suscriptor>ROSALBA DIAZ PINTA</Nom_suscriptor>
-		<Dir_suscriptor>B/ EL JARDIN</Dir_suscriptor>
-		<Cien_codcic>PC1</Cien_codcic>
-		<Ruen_cod_ruta>C101</Ruen_cod_ruta>
-		<Orden>620</Orden>
-		<Facturas_deuda>1</Facturas_deuda>
-		<Digito_chequeo>4</Digito_chequeo>
-		<Vadi_cod_division>86569000101</Vadi_cod_division>
+		<Susc_codzon>PA</Susc_codzon>
+		<Susc_codsus>24762</Susc_codsus>
+		<Sec_factura>6</Sec_factura>
+		<PERIODOX>01-ENE-20</PERIODOX>
+		<Nom_suscriptor>SUDIANNI MARIEN QUIÑONEZ ROSALES</Nom_suscriptor>
+		<Dir_suscriptor>CRA 34 NRO 15 - 33</Dir_suscriptor>
+		<Cien_codcic>PA1</Cien_codcic>
+		<Ruen_cod_ruta>P106</Ruen_cod_ruta>
+		<Orden>2070</Orden>
+		<Facturas_deuda>2</Facturas_deuda>
+		<Digito_chequeo>7</Digito_chequeo>
+		<Vadi_cod_division>PUERTO ASIS - KENEDY</Vadi_cod_division>
 		<Taen_cod_tarifa>105</Taen_cod_tarifa>
 		<Carga_Instal>.6</Carga_Instal>
 		<Area>URBANA</Area>
-		<Tius_cod_tipo>RE</Tius_cod_tipo>
+		<Tius_cod_tipo>RESIDENCIAL</Tius_cod_tipo>
 		<Estr_cod_estrato>1</Estr_cod_estrato>
 		<Nive_nivel_tension>1</Nive_nivel_tension>
 		<Estr_cod_estrato>1</Estr_cod_estrato>
 		<Tisu_cod_tipo>CM</Tisu_cod_tipo>
-		<Fecha_toma>16-ABR-20</Fecha_toma>
-		<Fecha_toma_ant>16-MAR-20</Fecha_toma_ant>
-		<Fecha_fac>28-ABR-20</Fecha_fac>
-		<Nro_factura>2034599847</Nro_factura>
-		<Fecha_toma_ant>16-MAR-20</Fecha_toma_ant>
+		<Fecha_toma>17-ENE-20</Fecha_toma>
+		<Fecha_toma_ant>18-DIC-19</Fecha_toma_ant>
+		<Fecha_fac>28-ENE-20</Fecha_fac>
+		<Nro_factura>2034466389</Nro_factura>
+		<Fecha_toma_ant>18-DIC-19</Fecha_toma_ant>
 		<direcc_envio></direcc_envio>
 		<tide_cod_tipo></tide_cod_tipo>
 		<ciudad></ciudad>
 		<tide_cod_tipo></tide_cod_tipo>
-		<Fecha_vencim></Fecha_vencim>
-		<Total_fac>7610</Total_fac>
-		<Fecpub>18-MAR-20</Fecpub>
+		<Fecha_vencim>23-FEB-20</Fecha_vencim>
+		<Total_fac>80230</Total_fac>
+		<Fecpub>17-DIC-19</Fecpub>
 		<Propiedad>SP</Propiedad>
-		<Cod_nodo>CUR004</Cod_nodo>
-		<tipo_red>A</tipo_red>
+		<Cod_nodo>PUR058</Cod_nodo>
+		<tipo_red>AEREA</tipo_red>
 		<desc_propiedad>EMPRESA</desc_propiedad>
-		<cod_suscriptor>PC 27485</cod_suscriptor>
-		<FECHAS_LECTURA>16-MAR-2020 - 16-ABR-2020</FECHAS_LECTURA>
-		<DESC_PERIODO>ABRIL 2020</DESC_PERIODO>
-		<dias_fac>31</dias_fac>
-    		<valorUltimoPago>19500</valorUltimoPago>
-    		<fechaUltimoPago>10-MAR-2020</fechaUltimoPago>
+		<cod_suscriptor>PA 24762</cod_suscriptor>
+		<FECHAS_LECTURA>18-DIC-2019 - 17-ENE-2020</FECHAS_LECTURA>
+		<DESC_PERIODO>ENERO 2020</DESC_PERIODO>
+		<dias_fac>30</dias_fac>
+		<valorUltimoPago>69500</valorUltimoPago>
+		<fechaUltimoPago>06-DIC-2019</fechaUltimoPago>
 	</FACTURA_ENC>
 	<FACTURA_DET>
 		<DETALLE>
@@ -165,46 +165,46 @@
 			<info_4></info_4>
 		</CON_TER>
 	</TERCEROS>
-	<MEDIDOR>
-		<marcaMed>HIK</marcaMed>
-		<codigoMed>16375074</codigoMed>
-		<factorMed>1</factorMed>
-	</MEDIDOR>
-	<LECTURAS>
-		<LECTURA>
-			<TIPO>ACTIVA</TIPO>
-			<LECTURA_ACTUAL>2647</LECTURA_ACTUAL>
-			<LECTURA_ANTERIOR>2541</LECTURA_ANTERIOR>
-			<OBSERVACION></OBSERVACION>
-		</LECTURA>
-		<LECTURA>
-			<TIPO>REACTIVA</TIPO>
-			<LECTURA_ACTUAL>0</LECTURA_ACTUAL>
-			<LECTURA_ANTERIOR>0</LECTURA_ANTERIOR>
-		</LECTURA>
-</LECTURAS>
-<LIQUIDACION_CONSUMO>
-	<ACTIVA>106</ACTIVA>
-	<REACTIVA>0</REACTIVA>
-	<COSTO_CONSUMO>64214.8</COSTO_CONSUMO>
-	<TARIFA>288</TARIFA>
-	<SUBSIDIO>-37069.92</SUBSIDIO>
-	<CONTRIBUCION>0</CONTRIBUCION>
-	<SUBTOTAL>28482</SUBTOTAL>
-</LIQUIDACION_CONSUMO>
-<CALIDAD_SERVICIO>
-	<TELEFONO>01 8000 942415</TELEFONO>
-	<TRANSFORMADOR>SSS197</TRANSFORMADOR>
-	<CIRCUITO>C10</CIRCUITO>
-	<GRUPO>4</GRUPO>
-	<IPS>0.552</IPS>
-	<ITT>0.007</ITT>
-	<IRGP>0.051</IRGP>
-	<CRO>1436.83</CRO>
-	<CMP>119.333</CMP>
-	<VALOR_COMPENSAR>0</VALOR_COMPENSAR>
-</CALIDAD_SERVICIO>
-<ALUMBRADO_PUBLICO>
+  <MEDIDOR>
+    <marcaMed>HIK</marcaMed>
+    <codigoMed>16375074</codigoMed>
+    <factorMed>1</factorMed>
+  </MEDIDOR>
+  <LECTURAS>
+    <LECTURA>
+        <TIPO>ACTIVA</TIPO>
+        <LECTURA_ACTUAL>2647</LECTURA_ACTUAL>
+        <LECTURA_ANTERIOR>2541</LECTURA_ANTERIOR>
+        <OBSERVACION></OBSERVACION>
+    </LECTURA>
+    <LECTURA>
+        <TIPO>REACTIVA</TIPO>
+        <LECTURA_ACTUAL>0</LECTURA_ACTUAL>
+        <LECTURA_ANTERIOR>0</LECTURA_ANTERIOR>
+    </LECTURA>
+	</LECTURAS>
+  <LIQUIDACION_CONSUMO>
+    <ACTIVA>106</ACTIVA>
+    <REACTIVA>0</REACTIVA>
+    <COSTO_CONSUMO>64214.8</COSTO_CONSUMO>
+    <TARIFA>288</TARIFA>
+    <SUBSIDIO>-37069.92</SUBSIDIO>
+    <CONTRIBUCION>0</CONTRIBUCION>
+    <SUBTOTAL>28482</SUBTOTAL>
+	</LIQUIDACION_CONSUMO>
+  <CALIDAD_SERVICIO>
+    <TELEFONO>01 8000 942415</TELEFONO>
+    <TRANSFORMADOR>SSS197</TRANSFORMADOR>
+    <CIRCUITO>C10</CIRCUITO>
+    <GRUPO>4</GRUPO>
+    <IPS>0.552</IPS>
+    <ITT>0.007</ITT>
+    <IRGP>0.051</IRGP>
+    <CRO>1436.83</CRO>
+    <CMP>119.333</CMP>
+    <VALOR_COMPENSAR>0</VALOR_COMPENSAR>
+	</CALIDAD_SERVICIO>
+  <ALUMBRADO_PUBLICO>
     <SUJETO>MUNICIPIO DE PUERTO ASIS</SUJETO>
     <OPERADOR>EAAAP ESP</OPERADOR>
     <CONVENIO>CONV COOP No.002 DE 2020</CONVENIO>
@@ -231,4 +231,17 @@
     <SALDO_ANTERIOR>8104</SALDO_ANTERIOR>
     <VALOR_TOTAL>16208</VALOR_TOTAL>
 	</ASEO>
+  <OTROS_CONVENIOS>
+    <CONVENIO>
+        <CONCEPTO>CONVENIO LA ASCENCIÓN</CONCEPTO>
+        <EMPRESA>LA ASCENCION</EMPRESA>
+        <TOTAL>21050</TOTAL>
+    </CONVENIO>
+    <CONVENIO>
+        <CONCEPTO>CREDISEGUROS</CONCEPTO>
+        <EMPRESA>CREDISEGUROS</EMPRESA>
+        <TOTAL>15000</TOTAL>
+    </CONVENIO>
+	</OTROS_CONVENIOS>
+  <CODIGO_BARRAS>(415)7709998005532(8020)1000203446638977(3900)0000080230(96)00200223</CODIGO_BARRAS>
 </FACTURA>
