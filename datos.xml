@@ -105,7 +105,7 @@
 	<CONSUMOS>
 		<CONSUMO>
 			<cons_nom_periodo>Mar</cons_nom_periodo>
-			<Consumo_def>25</Consumo_def>
+			<Consumo_def>30</Consumo_def>
 		</CONSUMO>
 		<CONSUMO>
 			<cons_nom_periodo>Feb</cons_nom_periodo>
