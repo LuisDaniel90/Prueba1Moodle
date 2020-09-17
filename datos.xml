@@ -105,27 +105,27 @@
 	<CONSUMOS>
 		<CONSUMO>
 			<cons_nom_periodo>Mar</cons_nom_periodo>
-			<Consumo_def>30</Consumo_def>
+			<Consumo_def>20</Consumo_def>
 		</CONSUMO>
 		<CONSUMO>
 			<cons_nom_periodo>Feb</cons_nom_periodo>
-			<Consumo_def>51</Consumo_def>
+			<Consumo_def>80</Consumo_def>
 		</CONSUMO>
 		<CONSUMO>
 			<cons_nom_periodo>Ene</cons_nom_periodo>
-			<Consumo_def>55</Consumo_def>
+			<Consumo_def>30</Consumo_def>
 		</CONSUMO>
 		<CONSUMO>
 			<cons_nom_periodo>Dic</cons_nom_periodo>
-			<Consumo_def>96</Consumo_def>
+			<Consumo_def>80</Consumo_def>
 		</CONSUMO>
 		<CONSUMO>
 			<cons_nom_periodo>Nov</cons_nom_periodo>
-			<Consumo_def>10</Consumo_def>
+			<Consumo_def>20</Consumo_def>
 		</CONSUMO>
 		<CONSUMO>
 			<cons_nom_periodo>Oct</cons_nom_periodo>
-			<Consumo_def>4</Consumo_def>
+			<Consumo_def>80</Consumo_def>
 		</CONSUMO>
 	</CONSUMOS>
 	<CU>
