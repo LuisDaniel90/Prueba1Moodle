@@ -121,11 +121,11 @@
 		</CONSUMO>
 		<CONSUMO>
 			<cons_nom_periodo>Nov</cons_nom_periodo>
-			<Consumo_def>7</Consumo_def>
+			<Consumo_def>10</Consumo_def>
 		</CONSUMO>
 		<CONSUMO>
 			<cons_nom_periodo>Oct</cons_nom_periodo>
-			<Consumo_def>0</Consumo_def>
+			<Consumo_def>4</Consumo_def>
 		</CONSUMO>
 	</CONSUMOS>
 	<CU>
